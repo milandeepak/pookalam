@@ -1,5 +1,7 @@
 # pookalam
 
+# About 
+  This Pookalam(Flower Carpet) was made using python with the help of Joy, a python library. 
 
 ## Code
 
