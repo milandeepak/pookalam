@@ -40,6 +40,6 @@
     flgd= flower|translate(x=10,y=10)|repeat(11,rotate(30))
     show(flgd)
    
-## image
+## Image
     
 ![image](https://github.com/milandeepak/pookalam/blob/main/x-7ebcf439df-8685550f4e02a4e71bceaee57db32e71-m_vr5.png)
